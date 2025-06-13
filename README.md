@@ -1,8 +1,4 @@
-Poster presented at BSMCS 2025: "Comparing gamified and image-based ultrasound biofeedback therapy for speech remediation: Preliminary results
-Sarah R. Li, PhD,1 Sarah Dugan, PhD CCC-SLP,2 Nicholas S. Schoenleb,1 Maxim Lushpin,1 Elizabeth Farmer, CCC-SLP,
-Brittany Fletcher, PhD CCC-SLP,2 Mehraban Salaryfar,2 Reneé Seward Nettle, MGD,3 Michael A. Riley, PhD,4 
-Suzanne Boyce, PhD CCC-SLP,2 and T. Douglas Mast, PhD1 
-1Biomedical Engineering; 2Communication Sciences and Disorders; 3Design; 4Rehabilitation Sciences | University of Cincinnati
+Poster presented at BSMCS 2025: "Comparing gamified and image-based ultrasound biofeedback therapy for speech remediation: Preliminary results"
 
 Visuals for poster presented at BSMCS 2025:
 - Gamified UBT example display: Video showing game object movement for gamified example (Fig. 2).
